@@ -1,5 +1,5 @@
 #!/bin/bash
-# Rainbow Terminal Cheat Sheet
+# Terminal Cheat Sheet
 
 # pacman = official repos only (needs sudo)
 # yay/paru = supports AUR (run as user, not sudo)
