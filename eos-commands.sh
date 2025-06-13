@@ -1,8 +1,12 @@
 #!/bin/bash
 # Terminal Cheat Sheet
 
+# tldr = use this often when unsure of command options.. it's your number 1 tool!! (e.g., tldr grep)
+
 # pacman = official repos only (needs sudo)
 # yay/paru = supports AUR (run as user, not sudo)
+# flatpak = for when you want to sandbox an application, isolated from the rest of the system
+# apt = for debian based distros
 
 echo -e "\033[1m=========================\033[0m"
 echo -e " 🌟 Terminal Commands 🌟 "
