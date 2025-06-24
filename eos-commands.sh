@@ -1,6 +1,8 @@
 #!/bin/bash
 # Terminal Cheat Sheet
 
+# This bash script is designed to deploy as you open any terminal session. It displays a list of useful commands for the user, without the need to manually type/run anything first. The script is also written with the ASCII 256 color pallet in mind.
+
 # tldr = use this often when unsure of command options.. it's your number 1 tool!! (e.g., tldr grep)
 
 # pacman = official repos only (needs sudo)
