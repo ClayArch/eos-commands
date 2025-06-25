@@ -1,6 +1,6 @@
 # 🐧 eos-commands.sh
 
-A simple, colorized Bash 'cheat sheet' that runs automatically in your terminal window to display helpful Linux commands. Created with and inspired by EndeavourOS, but designed for any Arch-based distribution.
+A simple, colorized Bash 'cheat sheet' that runs in your terminal window to display helpful Linux commands. Created with and inspired by EndeavourOS, but designed for any Arch-based distribution.
 
 ---
 
