@@ -1,7 +1,7 @@
 #!/bin/bash
 # Terminal Cheat Sheet
 
-# This bash script is designed to deploy as you open any terminal session. It displays a list of useful commands for the user, without the need to manually type/run anything first. The script is also written with the ASCII 256 color pallet in mind.
+# This bash script is designed to deploy as you open any terminal session. It displays a list of useful commands for the user, without the need to manually type/run anything first. The script is also written with the ANSI 256-color pallet in mind.
 
 # tldr = use this often when unsure of command options.. it's your number 1 tool!! (e.g., tldr grep)
 
@@ -107,7 +107,7 @@ echo -e "[38;5;51mstat <file>                        	[0m [90m# File metadata
 echo -e "[38;5;51mfind / -name <file>                	[0m [90m# Find file globally[0m[0m"
 echo -e "[38;5;51mdf -h                               	[0m [90m# Show all mounted partitions[0m[0m"
 echo -e "[38;5;51mdu -sh *                           	[0m [90m# Size of items in folder[0m[0m"
-echo -e "[38;5;51mtar -xvf <tar file>			[0m [90m# Extract a .tar.gz archive[0m[0m"
+echo -e "[38;5;51mtar -xvf <tar file>			[0m [90m# Extract a .tar.gz archive file[0m[0m"
 echo -e "[38;5;51msudo gparted				[0m [90m# Partition editing tool[0m[0m"
 echo ""
 echo -e "[1;37m --- 👥 USERS & PERMISSIONS 📖 ---[0m[0m"
