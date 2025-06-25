@@ -1,10 +1,10 @@
-# eos-commands.sh
+# 🐧 eos-commands.sh
 
 A simple, colorized Bash 'cheat sheet' that runs automatically in your terminal window to display helpful Linux commands. Created with and inspired by EndeavourOS, but designed for any Arch-based distribution.
 
 ---
 
-## What It Does
+## 📌 Summary
 
 When run, this script prints categorized command references directly to your terminal, including:
 
@@ -20,7 +20,7 @@ When run, this script prints categorized command references directly to your ter
 
 ---
 
-## Preview
+## 📸 Preview
 
 Here's a small snippet of what you'll see when launching your terminal with `eos-commands.sh` enabled:
 
@@ -29,7 +29,7 @@ Here's a small snippet of what you'll see when launching your terminal with `eos
 
 ---
 
-## Requirements
+## 🧰 Requirements
 
 - Bash (or compatible shell such as Zsh)
 - Terminal with ANSI 256-color support
@@ -40,7 +40,9 @@ The majority of commands listed in this bash script relate to common Linux progr
 
 For example, if typing a command such as `btop` returns: `command not found` you will need to install it first using a package manager      such as pacman, using `sudo pacman -S btop`.
 
-## Installation/How to Use
+---
+
+## 🛠️ Installation
 
 **Note**:
 
