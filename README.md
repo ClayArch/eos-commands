@@ -36,7 +36,7 @@ Here's a small snippet of what you'll see when launching your terminal with `eos
 
 **Note**:
 
-The majority of commands listed in this script relate to common Linux programs, and as such require prior package installation of the application and/or its dependencies.
+The majority of commands listed in this script relate to commonly used Linux applications, and as such require prior package installation of the application and/or its dependencies.
 
 For example, if typing a command such as `btop` returns: `command not found` you will need to install it first using a package manager such as pacman, using `sudo pacman -S btop`.
 
