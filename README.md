@@ -6,7 +6,7 @@ An easy to read, colorized 'cheat sheet' that runs in your terminal window to di
 
 ## 📌 Summary
 
-When run, this script prints categorized command references directly to your terminal, including:
+When executed, this script prints categorized command references directly to your terminal, including:
 
 - 📦 Package Management 
 - 📊 System Monitoring
